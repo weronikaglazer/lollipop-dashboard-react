@@ -36,7 +36,7 @@ const rows = [
     }
     else{
       return{
-        background: '#59bfff',
+        background: '#d096ff',
         color: 'white',
       }
     }
